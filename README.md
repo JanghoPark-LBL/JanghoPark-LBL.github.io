@@ -1,5 +1,0 @@
-# JanghoPark-LBL.github.io
-my homepage
-test
-
-test
